@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GreenLight</string>
+    <string name="app_Title">Metrics</string>
+    <string name="performance_by_zone">Performance By Zone</string>
+    <string name="zone">Zone</string>
+    <string name="region">Region</string>
+    <string name="area">Area</string>
+    <string name="name">Name</string>
+    <string name="noRecords">No Records Found!</string>
+    <string name="search_by_name">Search by Name</string>
+</resources>
