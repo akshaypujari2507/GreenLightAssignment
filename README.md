@@ -47,3 +47,6 @@ Support search for a specific employee name.
 Can view the records in ascending and descending order by name.
 
 # Demo:
+
+https://user-images.githubusercontent.com/42991989/108594324-6bc50380-739f-11eb-84cb-4ff88b3ae912.mp4
+
