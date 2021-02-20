@@ -25,7 +25,7 @@
 
 
 ## Description
-Metrics app loads the data from the "http://demo1929804.mockable.io/" and stores it in persistent storage. 
+Metrics app loads the data from the "http://demo1929804.mockable.io/" api and stores it in persistent storage. 
 Records will be always loaded from the local database. 
 
 Metrics app is offline capable.
